@@ -8,7 +8,7 @@ Python analysis and visualisation tools developed during a research internship a
 
 The simulation and analysis pipeline combines:
 - **MISTHIC** — PSF simulator for MICADO high-contrast modes
-- **Exo-REM** — self-consistent radiative-convective atmospheric model grid
+- **[Exo-REM](https://gitlab.obspm.fr/Exoplanet-Atmospheres-LESIA/exorem)** — self-consistent radiative-convective atmospheric model grid
 - **[ForMoSA](https://github.com/exoAtmospheres/ForMoSA)** — Bayesian nested-sampling atmospheric retrieval tool
 
 ## Contents
