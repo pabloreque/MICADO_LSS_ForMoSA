@@ -17,8 +17,6 @@ The simulation and analysis pipeline combines:
 |------|-------------|
 | `corner_plots.py` | Multi-run posterior comparison corner plots for ForMoSA outputs |
 
-More modules will be added as the project develops.
-
 ## Dependencies
 
 - Python 3.11
